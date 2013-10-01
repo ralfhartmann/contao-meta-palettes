@@ -2,3 +2,6 @@
 .settings
 .buildpath
 .idea
+.directory
+
+config/autoload.php
